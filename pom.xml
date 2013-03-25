@@ -13,7 +13,7 @@
   <packaging>hpi</packaging>
   <name>Sectioned View Plugin</name>
   <description>Sectioned View Plugin</description>
-  <version>1.16-h-1</version>
+  <version>1.16-h-2-SNAPSHOT</version>
   <url>http://wiki.hudson-ci.org/display/HUDSON/Sectioned+View+Plugin</url>
   <developers>
     <developer>
